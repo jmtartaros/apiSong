@@ -1,0 +1,126 @@
+{
+
+    "songs": [{
+            "id": 1,
+            "title": "Bohemian Rhapsody",
+            "artist": "Queen",
+            "genero": "rock",
+            "img": "https://media.diariolasamericas.com/p/252b3162b79e2374537c8e69f02d12b9/adjuntos/216/imagenes/001/580/0001580664/855x0/smart/queenjpg.jpg",
+            "url": "https://www.youtube.com/embed/fJ9rUzIMcZQ"
+        },
+        {
+            "id": 2,
+            "title": "Stairway to Heaven",
+            "artist": "Led Zeppelin",
+            "genero": "rock",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTXzLH9V5EdUoGiOfNZBn1efv7geSxz5S68w&s",
+            "url": "https://www.youtube.com/embed/QkF3oxziUI4"
+        },
+        {
+            "id": 3,
+            "title": "Another Brick in the Wall, Part Two",
+            "artist": "Pink Floyd",
+            "genero": "rock",
+            "img": "https://i1.sndcdn.com/artworks-000335528577-ktqi2k-t500x500.jpg",
+            "url": "https://www.youtube.com/embed/HrxX9TBj2zY"
+        },
+        {
+            "id": 4,
+            "title": "Sweet Child O' Mine",
+            "artist": "Guns N' Roses",
+            "genero": "rock",
+            "img": "https://m.media-amazon.com/images/I/51HYzZHeHOL._UF894,1000_QL80_.jpg",
+            "url": "https://www.youtube.com/embed/1w7OgIMMRc4"
+        },
+        {
+            "id": 5,
+            "title": "Back in Black",
+            "artist": "AC/DC",
+            "genero": "rock",
+            "img": "https://m.media-amazon.com/images/I/41wTWXAHk1L._UF1000,1000_QL80_.jpg",
+            "url": "https://www.youtube.com/embed/pAgnJDJN4VA"
+        },
+        {
+            "id": 6,
+            "title": "Juicy",
+            "artist": "The Notorious B.I.G.",
+            "genero": "hip hop",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTqBu0gWFSQ0mTzoyophvnkBatLm4eoc1Fkw&s",
+            "url": "https://www.youtube.com/embed/_JZom_gVfuw"
+        },
+        {
+            "id": 7,
+            "title": "Without Me",
+            "artist": "Eminem",
+            "genero": "hip hop",
+            "img": "https://i.scdn.co/image/ab67616d0000b2736ca5c90113b30c3c43ffb8f4",
+            "url": "https://www.youtube.com/embed/YVkUvmDQ3HY"
+        },
+        {
+            "id": 8,
+            "title": "Lose Yourself",
+            "artist": "Eminem",
+            "genero": "hip hop",
+            "img": "https://upload.wikimedia.org/wikipedia/en/d/d6/Lose_Yourself.jpg",
+            "url": "https://www.youtube.com/embed/xFYQQPAOz7Y"
+        },
+        {
+            "id": 9,
+            "title": "C.R.E.A.M.",
+            "artist": "Wu-Tang Clan",
+            "genero": "hip hop",
+            "img": "https://upload.wikimedia.org/wikipedia/en/d/d9/Wu-Tang-Cream-cover.jpg",
+            "url": "https://www.youtube.com/embed/PBwAxmrE194"
+        },
+        {
+            "id": 10,
+            "title": "Tobey",
+            "artist": "Eminem",
+            "genero": "hip hop",
+            "img": "https://upload.wikimedia.org/wikipedia/en/a/a1/Tobey_Eminem.png",
+            "url": "https://www.youtube.com/embed/9xn0OHEZZ8Q"
+        },
+        {
+            "id": 11,
+            "title": "Dance Macabre",
+            "artist": "Ghost",
+            "genero": "metal",
+            "img": "https://upload.wikimedia.org/wikipedia/en/e/e7/Dance_Macabre_single.png",
+            "url": "https://www.youtube.com/embed/jH2WKb3cIfo"
+        },
+        {
+            "id": 12,
+            "title": "Custer",
+            "artist": "Slipknot",
+            "genero": "metal",
+            "img": "https://i.scdn.co/image/ab67616d0000b273eed722040c6810f7a7da93ea",
+            "url": "https://www.youtube.com/embed/FdBqOCS8LmM"
+        },
+        {
+            "id": 13,
+            "title": "Duality",
+            "artist": "Slipknot",
+            "genero": "metal",
+            "img": "https://i.scdn.co/image/ab67616d0000b2736b3463e7160d333ada4b175a",
+            "url": "https://www.youtube.com/embed/6fVE8kSM43I"
+        },
+        {
+            "id": 14,
+            "title": "Painkiller",
+            "artist": "Judas Priest",
+            "genero": "metal",
+            "img": "https://i.ytimg.com/vi/4s1gBIVOTtk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCvhmrSBUJHAilbjAyhc3I8HAULlA",
+            "url": "https://www.youtube.com/embed/nM__lPTWThU"
+        },
+        {
+            "id": 15,
+            "title": "War Pigs",
+            "artist": "Black Sabbath",
+            "genero": "metal",
+            "img": "https://i1.sndcdn.com/artworks-jyLxFwkgwsGuS4h7-wp1aSw-t500x500.jpg",
+            "url": "https://www.youtube.com/embed/LQUXuQ6Zd9w"
+        }
+    ]
+
+
+}
